@@ -20,7 +20,7 @@ This notebook demonstrates a machine learning project to predict heart problems 
 To get started with this project, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/Heart-Problem-Prediction.git
+git clone https://github.com/mohammad007kh/Heart-Problem-Prediction.git
 cd Heart-Problem-Prediction
 pip install -r requirements.txt
 ```
